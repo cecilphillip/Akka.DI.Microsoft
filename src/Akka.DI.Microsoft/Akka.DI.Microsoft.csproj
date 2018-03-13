@@ -9,8 +9,8 @@
     <Authors>Akka.NET Contrib Team</Authors>
     <VersionPrefix>1.3.5</VersionPrefix>
     <PackageIconUrl>http://getakka.net/images/akkalogo.png</PackageIconUrl>
-    <PackageProjectUrl>https://github.com/akkadotnet/Akka.DI.Microsoft</PackageProjectUrl>
-    <PackageLicenseUrl>https://github.com/akkadotnet/Akka.DI.Microsoft/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/michaeljbaird/Akka.DI.Microsoft</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/michaeljbaird/Akka.DI.Microsoft/blob/master/LICENSE</PackageLicenseUrl>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
 
