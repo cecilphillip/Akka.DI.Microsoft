@@ -1,6 +1,6 @@
 # Akka.DI.Microsoft
 
-**Actor Producer Extension** backed by the [Microsoft Dependency Injection](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection) Dependency Injection Container for the [Akka.NET](https://github.com/akkadotnet/akka.net) framework.
+**Actor Producer Extension** backed by the [Microsoft Dependency Injection](https://github.com/aspnet/DependencyInjection) Dependency Injection Container for the [Akka.NET](https://github.com/akkadotnet/akka.net) framework.
 
 ## What is it?
 
@@ -8,7 +8,7 @@
 
 ## How to you use it?
 
-The best way to understand how to use it is by example. If you are already considering this extension then we will assume that you know how how to use the [Simple Injector](https://Microsoft.org/index.html) container. This example is demonstrating a system using [ConsistentHashing](http://getakka.net/docs/working-with-actors/Routers#consistenthashing) routing along with this extension.
+The best way to understand how to use it is by example. If you are already considering this extension then we will assume that you know how how to use the [Microsoft Dependency Injection](https://github.com/aspnet/DependencyInjection) container.
 
 Start by creating your container and registering your actors and dependencies.
 
