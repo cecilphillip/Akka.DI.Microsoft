@@ -12,6 +12,9 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Akka.DI.Microsoft", "src\Akka.DI.Microsoft\Akka.DI.Microsoft.csproj", "{D75A3712-890A-42E9-857C-7B1C8DDCBAC0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "build", "build", "{4AAFA075-73FE-4A62-A441-F192EAE535A2}"
+	ProjectSection(SolutionItems) = preProject
+		build.fsx = build.fsx
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Akka.DI.Microsoft.Tests", "src\Akka.DI.Microsoft.Tests\Akka.DI.Microsoft.Tests.csproj", "{4B49DCFD-3057-469C-A71D-157B28F27A3A}"
 EndProject
